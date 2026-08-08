@@ -1,0 +1,6 @@
+{
+  "name": "Mensvibes - Luxury Footwear Brand",
+  "description": "Enterprise-grade eCommerce platform for Mensvibes handcrafted shoes, Chelsea boots, loafers, sneakers & leather goods with Supabase database, AI Shoe Stylist, and Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
